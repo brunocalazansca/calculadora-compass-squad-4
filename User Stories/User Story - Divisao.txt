@@ -1,0 +1,19 @@
+User Story - Divisão
+
+Como usuário da calculadora
+Quero fazer divisão de dois números
+Para obter rapidamente o resultado da operação sem precisar calcular manualmente
+
+Critérios de aceitação
+
+A calculadora deve permitir a digitação de dois números.
+O usuário deve conseguir selecionar a operação de divisão (/).
+Ao confirmar a operação, a calculadora deve exibir o resultado correto.
+O resultado deve aparecer em destaque na tela.
+
+Cenário de uso
+
+Dado que o usuário abriu a calculadora
+Quando ele digitar o número 36, pressionar ENTER, digitar 4
+e pressionar o botão ENTER
+A calculadora deve exibir 9 como resultado.
